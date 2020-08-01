@@ -1,6 +1,6 @@
 # Simia
 
-2D platformer game made in Unity for COMP313 in collaboration with other students from Victoria University or Wellington
+2D platformer game made in Unity, in collaboration with other students from Victoria University or Wellington
 
 ## Premise
 
