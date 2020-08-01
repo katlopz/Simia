@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0dbbeabcbc627004aa27e9e6cf459f11
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - X: {instanceID: 0}
+  - CorrectClip: {fileID: 8300000, guid: 494db59bcb9ded34cbc12c85b6cb7373, type: 3}
+  - WrongClip: {fileID: 8300000, guid: f492265bd7776b74bad45df5ba1a3c96, type: 3}
+  - SoundSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
